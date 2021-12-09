@@ -1,5 +1,5 @@
 # Selenuim Test Automation
-Apply automated tests in todoMVC[https://todomvc.com/] using Selenium and Junit5
+Apply automated tests in [todoMVC](https://todomvc.com/) using Selenium and Junit5
 
  ### Selenuim
  An [open-source framework](https://www.selenium.dev/) aimed at supporting web browser automation.
